@@ -1,6 +1,6 @@
 # fundamental-html-tags-project
 
-[Open in Github Pages](https://oliviahill9.github.io/fundamental-html-tags-project/){:target="_blank"}
+[Open in Github Pages](https://oliviahill9.github.io/fundamental-html-tags-project/)
 
 ## About the project:
 
