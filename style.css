@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:seashell;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+    color: teal;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    border: 2px solid gray;
+    padding: 0.5em;
+    border-radius: 5%;
+    background-color: white;
+    line-height: 25px;
+}
+
+.table-caption {
+    font-weight: bold;
+    font-size: 1.5em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    text-decoration: underline;
+}
+
+.table {
+    display: table;
+    margin: 0 auto;
+    border: 3px solid lightseagreen;
+    width: 1000px;
+    box-sizing: border-box;
+}
+
+td, th {
+    border: 1px solid lightseagreen;
+    text-align: center;
+    padding: 0.4em;
+}
+
+th {
+    background-color: lightsteelblue;
+}
+
+.data-1 {
+
+    background-color: lightgray;
+}
+
+.data-3 {
+    background-color: white;
+}
+
+.data-2 {
+    font-style: italic;
+    background-color: lightcyan;
+}
+
